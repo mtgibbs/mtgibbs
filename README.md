@@ -37,7 +37,7 @@ CPU0: 12% | SWAP: 0% | LAST_READ: 4:32:54 PM
 **Data Strategy & Audit Intelligence Platforms**
 > In my current role, I’m responsible for the strategy and delivery of data analytics platforms that support inventory audits and portfolio risk analysis. I work closely with Product and UX partners to turn loosely defined problems into clear technical direction.
 >
-> *Key Focus: Balancing speed, accuracy, and trust. Established and lead the engineering internship program in partnership with Georgia Tech.*
+> *Key Focus: Balancing speed, accuracy, and trust. Since 2018, I have partnered with **Georgia Tech, Kennesaw State, and Georgia State** to lead the intern program at DataScan.*
 
 #### Software Engineering Manager `2020 - 2021`
 **Platform Modernization & Cloud Readiness**
@@ -68,5 +68,6 @@ Started career on high-volume, automated policy processing systems (Java/Mainfra
 
 [![Personal Site](https://img.shields.io/badge/mtgibbs.xyz-Visit_Site-black?style=for-the-badge&logo=next.js&logoColor=white)](https://mtgibbs.xyz)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mtgibbs21/)
-[![Discord](https://img.shields.io/badge/Discord-Chat-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com)
-[![Email](https://img.shields.io/badge/Email-Contact_Me-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:hello@mtgibbs.xyz)
+
+[![Email](https://img.shields.io/badge/Email-Contact_Me-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:matt@mtgibbs.xyz)
+[![Mentorship](https://img.shields.io/badge/Mentorship-University_Partnerships-B3A369?style=for-the-badge&logo=mortarboard&logoColor=white)]()
